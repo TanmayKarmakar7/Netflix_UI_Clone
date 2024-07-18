@@ -1,3 +1,3 @@
 # Netfix UI Clone
 
-Netflix main page's ui clone using html & css.
+This is a basic html, css and javascript Netflix UI clone project.
